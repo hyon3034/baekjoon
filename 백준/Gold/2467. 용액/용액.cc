@@ -6,7 +6,7 @@ using namespace std;
 
 // 투포인터
 
-int arr[1000001];
+int arr[100001];
 
 int main()
 {
